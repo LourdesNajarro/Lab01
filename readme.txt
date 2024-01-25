@@ -7,3 +7,7 @@ Open source que llaman mi atención:
 Link del codepen de la tarjeta de presentación
 
 https://codepen.io/LourdesNajarro/pen/WNmZdJM?editors=1100
+
+Link del repo donde se realizó el fork
+
+https://github.com/LourdesNajarro/ML-SP1-2021
